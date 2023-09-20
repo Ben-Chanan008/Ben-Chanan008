@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Ben-Chanan008
 - 👀 I’m interested in Computers in general
-- 🌱 I’m a Fullstack Software Engineer.
+- 🌱 I’m currently working on the first ever only digital store called "NEXUS".
+- ⚙️ Languages and Technologies: ReactJS, HTML/CSS, JavaScript, PHP, Laravel, SQL, Node.js.
+- 👨‍💻 I have a Codecademy degree in Front End Web Development.
+- ⚙️ Check out my work on ben-Chanan008.github.io/mainportfolio
 - 💞️ I’m looking to collaborate with people and build problem solving projects
 - 📫 You can reach me on bchanan.boss@gmail.com
 
