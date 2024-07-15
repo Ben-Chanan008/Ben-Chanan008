@@ -65,6 +65,7 @@
 ### 🎨 Hobbies
 
 - 🎨 Football
+- 🎨 Drawing
 
 ---
 
