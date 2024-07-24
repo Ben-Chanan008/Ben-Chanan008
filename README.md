@@ -19,7 +19,7 @@
 
 - 🔭 I'm passionate about [your interests or specialties].
 - 🌱 Currently, I'm a Full Stack Developer at [Xcella-ng](https://github.com/Xcella-ng).
-- 💼 [Another detail about your professional status or expertise].
+- 💼 [My portfolio](https://myportfolio-rouge-psi.vercel.app/).
 
 ---
 
