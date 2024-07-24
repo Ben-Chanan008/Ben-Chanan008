@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm passionate about [your interests or specialties].
+- 🔭 I'm passionate about showing Christ through what I do.
 - 🌱 Currently, I'm a Full Stack Developer at [Xcella-ng](https://github.com/Xcella-ng).
 - 💼 [My portfolio](https://myportfolio-rouge-psi.vercel.app/).
 
