@@ -58,7 +58,6 @@
 - 🚀 Vuejs
 - 🚀 CSS
 - 🚀 Laravel
-- 🚀 API'S
 
 ---
 
